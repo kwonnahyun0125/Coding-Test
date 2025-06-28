@@ -44,7 +44,7 @@ rl.on('line', function (line) {
 });
 ```
 
-## 풀이코드
+## 5. 풀이코드
 
 ```shell
 const readline = require('readline');
