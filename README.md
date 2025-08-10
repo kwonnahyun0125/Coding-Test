@@ -11,3 +11,4 @@
 |2025-07-10          |두 수의 연산값 비교하기 |프로그래머스       |JS           |[코드] https://school.programmers.co.kr/learn/courses/30/lessons/181938|
 |2025-07-17          |n의 배수 |프로그래머스       |JS           |[코드] https://school.programmers.co.kr/learn/courses/30/lessons/181937|
 |2025-07-27          |공배수 |프로그래머스       |JS           |[코드] https://school.programmers.co.kr/learn/courses/30/lessons/181936|
+|2025-08-10          |공배수 |프로그래머스       |JS           |[코드] https://school.programmers.co.kr/learn/courses/30/lessons/181935?language=javascript
