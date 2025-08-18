@@ -12,3 +12,4 @@
 |2025-07-17          |n의 배수 |프로그래머스       |JS           |[코드] https://school.programmers.co.kr/learn/courses/30/lessons/181937|
 |2025-07-27          |공배수 |프로그래머스       |JS           |[코드] https://school.programmers.co.kr/learn/courses/30/lessons/181936|
 |2025-08-10          |홀짝에 따라 다른 값 반환하기 |프로그래머스       |JS           |[코드] https://school.programmers.co.kr/learn/courses/30/lessons/181935?language=javascript
+|2025-08-18          |조건 문자열 |프로그래머스       |JS           |[코드] https://school.programmers.co.kr/learn/courses/30/lessons/181934?language=javascript
